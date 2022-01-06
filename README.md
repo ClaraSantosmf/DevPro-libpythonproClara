@@ -3,7 +3,9 @@ Second attempt to take the Pytools course without bugs.
 
 This course teaches how to contribute to open source projects.
 
-link do curso [Python Pro](https://pythonpro.com.br/)
+Course's link [Python Pro](https://pythonpro.com.br/)
+[![Updates](https://pyup.io/repos/github/ClaraSantosmf/libpythonproClara/shield.svg)](https://pyup.io/repos/github/ClaraSantosmf/libpythonproClara/)
+[![Python 3](https://pyup.io/repos/github/ClaraSantosmf/libpythonproClara/python-3-shield.svg)](https://pyup.io/repos/github/ClaraSantosmf/libpythonproClara/)
 
 Python 3 support
 
