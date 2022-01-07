@@ -103,7 +103,7 @@ URL = "https://github.com/ClaraSantosmf/libpythonproClara"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
-    name= 'libpythonproClara',
+    name='libpythonproClara',
     version=VERSION,
     description=DESCRIPTION,
     long_description=read('README.md'),
