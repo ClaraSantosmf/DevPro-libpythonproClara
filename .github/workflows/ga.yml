@@ -25,6 +25,5 @@ jobs:
         flake8
     - name: Test with pytest
       run: | 
-        pytest libpythonpro
-        codecov
+        pytest libpythonpro --cov=libpythonpro
 
