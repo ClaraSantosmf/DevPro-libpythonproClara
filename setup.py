@@ -98,7 +98,7 @@ PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "This is a course teaches how to contribute to open source projects."
 AUTHOR = "Clara Santos"
-AUTHOR_EMAIL = "@"
+AUTHOR_EMAIL = "clarasantosmf@gmail.com"
 URL = "https://github.com/ClaraSantosmf/libpythonproClara"
 VERSION = __import__(PACKAGE).__version__
 
