@@ -24,7 +24,7 @@ jobs:
       run: |
         flake8
     - name: Test with pytest
-      run: pytest libpythonpro
+      run: | 
+        pytest libpythonpro
+        codecov
 
-    - name: Cobertura de testes com codecov
-      run: codecov
