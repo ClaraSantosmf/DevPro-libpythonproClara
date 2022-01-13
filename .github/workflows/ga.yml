@@ -27,3 +27,6 @@ jobs:
       run: | 
         pytest libpythonpro --cov=libpythonpro
 
+    - name: Send report
+      run: codecov
+
