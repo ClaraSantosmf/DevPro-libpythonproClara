@@ -12,7 +12,5 @@ def test_remetente():
         'clarasantosmf@gmail.com',
         'mauricioma@usp.br',
         'arquivamento de procedimento',
-        'Desejamos consultar se você quer descartar seus procedimentos'
-
-    )
+        'Desejamos consultar se você quer descartar seus procedimentos')
     assert 'clarasantosmf@gmail.com' in resultado
