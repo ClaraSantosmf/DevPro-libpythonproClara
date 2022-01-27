@@ -25,7 +25,7 @@ class Conexao:
     def __init__(self):
         sleep(3)
 
-    def gerar_sessao(self):
+    def gera_sessao(self):
         return Sessao()
 
     def fechar(self):
