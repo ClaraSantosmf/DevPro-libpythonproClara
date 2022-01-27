@@ -6,7 +6,8 @@ from libpythonpro.spam.modelos import Usuario
 
 
 @pytest.mark.parametrize(
-    'usuarios'[
+    'usuarios',
+    [
         [Usuario(nome='Clara', email='clarasantosmf@gmail.com'),
          Usuario(nome='Mauricio', email='mauricioma@usp.br')
          ],
